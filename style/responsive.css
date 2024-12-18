@@ -1,0 +1,523 @@
+
+@media (min-width:640px) and (max-width:1000px){
+    .container{
+        width: 100%;
+        max-width: 1000px;
+    }
+
+    .navbar{
+        height: 70px;
+        width: 100%;
+    }
+
+    .nav__ul ul{
+        margin: 0 10px;
+        font-size: 15px;
+    }
+
+    .nav__icons{
+        gap: 50px;
+    }
+
+    .log__img img{
+        width: 200px;
+        height: 220px;
+    }
+    .login__three{
+        padding-left: 90px;
+        height: 387px;
+    }
+
+    .comnt h1{
+        font-size: 20px;
+    }
+
+    .head--h1{
+        font-size: 13px;
+    }
+
+    .heade__box{
+        font-size: 29px;
+    }
+
+    .heade__box1{
+        font-size: 29px;
+    }
+
+    .boxs{
+        height: 150px;
+        font-size: 22px;
+    }
+
+    .boxing{
+        height: 160px;
+    }
+
+    .box__p{
+        font-size: 15px;
+    }
+
+    .box__p p{
+        font-size:25px;
+    }
+
+    .header__exam{
+        height: 1150px;
+    }
+
+    .login{
+        height: 620px;
+    }
+    
+    .log__box img{
+        width: 550px;
+        height: 620px;
+    }
+
+    .log__inp{
+        padding-left: 40px;
+        justify-content: space-between;
+    }
+
+    .wightp{
+        width: 100%;
+        padding-top: 40px;
+        font-size: 19px;
+    }
+
+    .wightp p{
+        font-size: 24px;
+    }
+
+    .wightp h1:nth-child(2) {
+        margin-bottom: 40px;
+    }
+
+    form input{
+        margin-top: 20px;
+        padding: 13px 110px 13px 0;
+    }
+
+    .phon p{
+        font-size: 17px;
+    }
+
+    .box__one :nth-child(2){
+        font-size: 19px;
+    }
+
+    .box__one p{
+        font-size: 16px;
+    }
+
+    .hambur{
+        display: none;
+    }
+
+    .box__btm--img img{
+        width: 290px;
+    }
+
+    .st1 img{
+        position: absolute;
+        width: 110px;
+        top: 120px;
+        right: -165px;
+    }
+
+    .box__btm--img{
+        margin-left: 40px;
+        gap: 25px;
+    }
+
+    .box__pteg p{
+        margin-left: 40px;
+        font-size: 20px;
+    }
+
+    .box__pteg{
+        margin-top: 20px;
+        font-size: 10px;
+        line-height: 0px;
+    }
+
+    .st2 img{
+        position: absolute;
+        top: 120px;
+        left: -165px;
+        width: 110px;
+    }
+
+    .head__btm__box{
+        height: 300px;
+    }
+
+    .btm__box__in{
+        width: 90%;
+    }
+
+    .moushin1{
+        padding: 0;
+    }
+
+    .moushin{
+        padding: 0;
+    }
+
+    .box__im{
+        height: 420px;
+    }
+
+    .one__boxs{
+        height: 180px;
+    }
+
+    .one__boxs img{
+        width: 200px;
+    }
+
+    .head__one{
+        height: 420px;
+    }
+}
+
+
+
+@media (min-width:320px) and (max-width:639px) {
+    .container{
+        width: 639px;
+    }
+
+    .hambur{
+        display: block;
+        padding-right: 5px;
+    }
+
+    .navbar{
+        padding: 20px;
+    }
+
+    .nav__ul{
+        display: none;
+    }
+
+
+    .header{
+       height: 320px;
+    }
+
+    .head__p{
+        height: 85px;
+        font-size: 15px;
+    }
+
+    .head__btm button{
+        font-size: 12px;
+        padding: 16px 35px;
+    }
+
+    .head__h1{
+        height: 140px;
+        padding-top: 40px;
+        font-size: 18px;
+    }
+
+    .login__three{
+        display:flex;
+        flex-wrap: wrap;
+        padding-left: 5px;
+    }
+
+    .login__img{
+        width: 47%;
+        height: 335px;
+        height: 320px;
+    }
+
+    .login__p{
+        height: 105px;
+    }
+
+    .comnt{
+        height: 65px;
+        padding-left: 25px;
+        padding-bottom: 25px;
+    }
+
+    .comnt h1{
+        padding: 0;
+        font-size: 20px;
+    }
+
+    .logins{
+        height: 810px;
+    }
+
+    .log__img img{
+        width: 240px;
+        height: 240px;
+        margin: 0;
+        margin-left: 22px;
+    }
+
+    .login__img1{
+        width: 47%;
+        height: 335px;
+    }
+
+    .icons__one{
+        gap: 10px;
+    }
+
+    .header__icons{
+        height: 640px;
+    }
+
+    .header__icons h1{
+        font-size: 30px;
+    }
+
+    .icon{
+        font-size: 19px;
+    }
+
+    .heade__tebl{
+        height: 250px;
+    }
+
+    .head--h1{
+        width: 70%;
+        height: 170px;
+        font-size: 13px;
+        padding-top: 50px;
+    }
+
+    .heade__tabl1{
+        height: 160px;
+    }
+
+    .heade__box{
+        padding: 20px 10px;
+        font-size: 19px;
+    }
+
+    .heade__box1{
+        padding: 20px 10px;
+        font-size: 19px;
+    }
+
+    .box--img{
+        width: 30px;
+        margin-right: 10px;
+        height: 30px;
+    }
+
+    .boxs{
+        height: 160px;
+    }
+
+    .boxs h1{
+        font-size: 45px;
+    }
+
+    .boxing{
+        padding: 10px;
+        margin-top: 10px;
+    }
+
+    .box__p h1{
+        font-size: 32px;
+        margin-bottom: 20px;
+    }
+
+    .box__p p{
+        font-size: 25px;
+    }
+
+    .header__exam{
+        height: 1150px;
+    }
+
+    .wightp {
+       font-size: 17px;
+       width: 80%;
+       padding: 20px 0;
+    }
+
+    .wightp p{
+        margin-top: 15px;
+        font-size: 15px;
+        margin-top: 10px;
+    }
+
+    form input{
+        padding: 6px 0;
+        margin-top: 20px;
+        font-size: 15px;
+    }
+
+    .log__btn{
+        font-size: 15px;
+        margin-top: 20px;
+        padding: 15px 60px;
+    }
+
+    .kinopk2{
+        width: 7px;
+        height: 7px;
+    }
+
+    .kinopk{
+        margin-top: 12px;
+    }
+
+    .login{
+        height: 465px;
+    }
+
+    .log__btm img{
+        width: 24px;
+        height: 24px;
+    }
+
+    .log__btm p{
+        margin-top: 2px;
+    }
+
+    .log__btm{
+        margin-top: 12px;
+    }
+
+    .diss{
+        gap: 12px;
+    }
+
+    .phon p{
+        font-size: 12px;
+    }
+
+    .log__box img{
+        height: 100%;
+        width: 100%;
+    }
+
+    .four__top {
+        font-size: 20px;
+        height: 140px;
+    }
+
+    .doin{
+        padding: 15px 0 0 15px;
+        width: 50px;
+        height: 50px;
+    }
+
+    .doin h1{
+        font-size: 18px;
+    }
+
+    .box--one h1:nth-child(2){
+        font-size: 16px;
+    }
+
+    .box__one{
+        flex-wrap: wrap;
+    }
+
+    .box--one{
+        width: 49%;
+        padding: 0 10px;
+    }
+
+    .box--one p {
+        font-size: 20px;
+    }
+
+    .box__im{
+        margin-top: 35px;
+        height: 370px;
+    }
+
+    .box__im h1{
+        margin-top: 15px;
+        margin-bottom: 22px;
+    }
+
+    .box__btm--img img:nth-child(1){
+        display: none;
+    }
+
+    .box__btm--img{
+        display: flex;
+        justify-content: center;
+    }
+
+    .box__btm--img img:nth-child(3){
+        display: none;
+    }
+
+    .head__btm__box {
+        margin-top: 50px;
+        display: flex;
+        justify-content: center;
+        height: 175px;
+    }
+
+    .moushin1 {
+        padding: 0px 0px;
+        width: 30%;
+        text-align: center;
+        height: 100%;
+    }
+
+    .moushin1 h1 {
+        margin-top: 10px;
+        line-height: 18px;
+        font-size: 17px;
+        margin-bottom: 5px;
+    }
+
+    .moushin {
+        padding-top: 0px;
+        width: 40%;
+        text-align: center;
+        height: 100%;
+    }
+
+    .moushin img{
+        width: 170px;
+    }
+
+    .btm {
+        margin-top: 10px;
+        font-size: 5px;
+        font-weight: 400;
+        border: none;
+        color: #fff;
+        padding: 10px 35px;
+        background-color: #AE7B3C;
+    }
+
+    .moushin1 p {
+        font-size: 14px;
+        line-height: 18px;
+    }
+
+    .btm__box__in {
+        width: 85%;
+    }
+
+    .head__one {
+        padding-top: 40px;
+        height: 370px;
+        text-align: center;
+    }
+
+    .one__boxs img:nth-child(2){
+        display: none;
+    }
+
+    .one__boxs img:nth-child(4){
+        display: none;
+    }
+}
